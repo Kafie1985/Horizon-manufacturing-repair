@@ -1,0 +1,1 @@
+webpackJsonp([2],{57:function(e,t,l){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var u=l(1),n=function(e){return e&&e.__esModule?e:{default:e}}(u);l(26);t.default=function(){return n.default.createElement("div",null,n.default.createElement("h1",null,"It's blog time."),n.default.createElement("br",null),"All Posts:",n.default.createElement("ul",null))}}});
